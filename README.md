@@ -6,6 +6,6 @@
 [github-git-cheat-sheet.pdf](https://github.com/Neba-Emmanuel/GitCheatSheet/files/7204030/github-git-cheat-sheet.pdf)
 <a href="https://github.com/Neba-Emmanuel/GitCheatSheet/files/7204030/github-git-cheat-sheet.pdf">Download File</a>
 
-## LookUp the PDF file to get the coomands or download ⤴️.
+## LookUp the PDF file to get the coomands or download ⤴️
 
 
